@@ -195,7 +195,7 @@ gt_tbl %>% gtsave("tab_1.html")
 Get an RTF file by using the .rtf extension in the `filename`.
 
 ```{r}
-gt_tbl %>% gtsave("tab_r.rtf")
+# gt_tbl %>% gtsave("tab_r.rtf")
 ```
 
 ------
